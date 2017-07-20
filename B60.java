@@ -24,6 +24,7 @@ public class B60 {
 		
 		System.out.println(min);
 		System.out.println(max);
+		System.out.println("SUM is "+(min+max));
 }
 	/*	for( i=0;i<n;i++){
 			for(int j=i+1;j<n;j++){
